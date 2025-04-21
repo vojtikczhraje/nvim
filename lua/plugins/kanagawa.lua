@@ -5,6 +5,6 @@ return {
       -- i cannot configure nothing
     })
 
-    vim.cmd("colorscheme kanagawa-dragon")
+    --    vim.cmd("colorscheme kanagawa-dragon")
   end,
 }
